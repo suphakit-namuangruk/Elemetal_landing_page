@@ -1,5 +1,5 @@
 import React from "react";
-import imgRoadTrip from "../assets/img/section1.jpg";
+import imgRoadTrip from "../assets/img/airplane.jpg";
 
 function Section2() {
   return (
