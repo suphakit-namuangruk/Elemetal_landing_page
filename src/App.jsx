@@ -1,10 +1,12 @@
 import "./App.css";
 
 //Components
-import Header from "./components/Header";
-import Section1 from "./components/Section1";
-import Section2 from "./components/Section2";
-import Section3 from "./components/Section3";
+import Header from "./components/Landing_page/Header";
+import Section1 from "./components/Landing_page/Section1";
+import Section2 from "./components/Landing_page/Section2";
+import Section3 from "./components/Landing_page/Section3";
+import Testimonials from "./components/Landing_page/Testimonials";
+import Footer from "./components/Landing_page/Footer";
 
 function App() {
   return (
@@ -13,6 +15,8 @@ function App() {
       <Section1 />
       <Section2 />
       <Section3 />
+      <Testimonials />
+      <Footer />
     </div>
   );
 }

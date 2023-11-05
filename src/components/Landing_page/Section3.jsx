@@ -17,7 +17,10 @@ function Section3() {
         <div className="text-white">
           <h3 className="text-3xl font-bold mb-4">Photography</h3>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, perspiciatis eaque culpa sint impedit aut iste excepturi fugiat pariatur et quo nam tempora dicta dolores labore quibusdam placeat nulla corrupti ipsum illo tempore sapiente ut? Asperiores?
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci,
+            perspiciatis eaque culpa sint impedit aut iste excepturi fugiat
+            pariatur et quo nam tempora dicta dolores labore quibusdam placeat
+            nulla corrupti ipsum illo tempore sapiente ut? Asperiores?
           </p>
         </div>
       </div>
