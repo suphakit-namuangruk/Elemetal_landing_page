@@ -132,6 +132,7 @@ function Testimonials() {
           </a>
         </div>
       </div>
+      <hr className="w-[50%] h-1 mx-auto my-4 bg-gray-900 border-0 rounded md:my-10"></hr>
     </div>
   );
 }
