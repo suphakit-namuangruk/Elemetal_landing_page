@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 
 //Components
 import Navbar from "../../components/Navbar";
@@ -8,10 +8,14 @@ function explore() {
   return (
     <div>
       <Navbar />
-      This is about explor matapaka
+      <div className="text-center">
+        <h1 className="text-4xl mt-[5%] text-center text-black uppercase">
+          Let's see anoter people experiences.
+        </h1>
+      </div>
       <Footer />
     </div>
   );
 }
 
-export default explore
+export default explore;

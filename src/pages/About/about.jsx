@@ -8,7 +8,11 @@ function about() {
   return (
     <div>
       <Navbar />
-      This is about page matapaka
+      <div className="text-center">
+        <h1 className="text-4xl mt-[5%] text-center text-black uppercase">
+          About us
+        </h1>
+      </div>
       <Footer />
     </div>
   );
